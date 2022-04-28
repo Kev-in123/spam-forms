@@ -38,3 +38,5 @@ In the image below, you see a field that says `entry.1079835443	"Option+1"`, all
   "entry.1079835443": "Option+1"
  }
  ```
+
+Also, you can use the same method for any form :)
