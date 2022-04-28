@@ -27,7 +27,7 @@ A few notes when using this:
     
 
 
-In the image below, you see a field that says `entry.1079835443	"Option+1"`, all you need to do is to copy that field (if there are more questions, copy all the `entry` fields and the values) and add it to the dictonary while making them strings 
+In the image below, you see a field that says `entry.1079835443	"Option+1"`, all you need to do is to copy that field (if there are more questions, copy all the `entry` fields and the values) and add it to the dictonary while making them strings   
 <img src="https://user-images.githubusercontent.com/75402062/145698738-92ce1f0e-6097-40bd-90b1-25c17611239f.png" width="750">
 
  
