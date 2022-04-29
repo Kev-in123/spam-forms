@@ -33,3 +33,6 @@ for the `data` dictionary, you just paste in the values
  ```
 
 Also, you can use the same method for any form/POST request :)
+
+
+If you don't want to spam the form, you can remove threading and the while loop
