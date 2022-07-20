@@ -27,8 +27,9 @@ for the `data` dictionary, you just paste in the values
  
  e.g.
  ```py
+ 
  data = {
-  "entry.1234567890": "Option+1"
+  "entry.1234567890": "lol"
  }
  ```
 
